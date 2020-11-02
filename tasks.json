@@ -1,0 +1,61 @@
+[
+ [
+  {
+   "_id": 1,
+   "name": "unclaimed Task",
+   "creator": {
+    "username": "User1@abc.com"
+   },
+   "done": false,
+   "cleared": false
+  },
+  {
+   "_id": 2,
+   "name": "claimed",
+   "owner": {
+    "username": "user1@abc.com"
+   },
+   "creator": {
+    "username": "user1@abc.com"
+   },
+   "done": false,
+   "cleared": false
+  },
+  {
+   "_id": 3,
+   "name": "claimed",
+   "owner": {
+    "username": "user2@abc.com"
+   },
+   "creator": {
+    "username": "user1@abc.com"
+   },
+   "done": false,
+   "cleared": false
+  },
+  {
+   "_id": 4,
+   "name": "claimed",
+   "owner": {
+    "username": "user1@abc.com"
+   },
+   "creator": {
+    "username": "user1@abc.com"
+   },
+   "done": true,
+   "cleared": false
+  },
+  {
+   "_id": 5,
+   "name": "claimed",
+   "owner": {
+    "username": "user2@abc.com"
+   },
+   "creator": {
+    "username": "user1@abc.com"
+   },
+   "done": true,
+   "cleared": false
+  }
+ ]
+]
